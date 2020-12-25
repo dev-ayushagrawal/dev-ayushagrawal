@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/i_ayussh/">
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="ayush.ayush703@gmail.com">
+<a href="mailto:ayush.ayush703@gmail.com">
   <img align="left" alt="Ayush's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
